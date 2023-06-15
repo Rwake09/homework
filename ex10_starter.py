@@ -58,4 +58,3 @@ while attemps < max_attempts:
 if attemps == max_attempts:
     print("Max attempts reached, card chewed and destroyed")
 
-    # done 
