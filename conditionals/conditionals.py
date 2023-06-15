@@ -143,5 +143,14 @@ else:
     print()
 
 
+start = 2
+end = 20
+step = 3
+
+for x in range(start,end,step):
+    print(x)
+else:
+    print('Finished')
+
 
 
