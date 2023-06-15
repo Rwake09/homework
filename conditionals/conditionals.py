@@ -124,33 +124,33 @@ some_list = ['John', 'Jack', 'Jim', 'Joe']
 for i in range(2,len(some_list)):
     print(some_list[i])
 
-print()
-print()
-# range starts at position 0 so john and breaks at 2 so jim
-for i in range(0,len(some_list)):
-    if i == 2:
-        break
-    print(some_list[i])
-print()
-print()
-# range (start number, top number, increment)
-for x in range(0, 20, 5):
-    print(x)
-else:
-    print('Finished')
-
-    print()
-    print()
-
-
-start = 2
-end = 20
-step = 3
-
-for x in range(start,end,step):
-    print(x)
-else:
-    print('Finished')
+# print()
+# print()
+# # range starts at position 0 so john and breaks at 2 so jim
+# for i in range(0,len(some_list)):
+#     if i == 2:
+#         break
+#     print(some_list[i])
+# print()
+# print()
+# # range (start number, top number, increment)
+# for x in range(0, 20, 5):
+#     print(x)
+# else:
+#     print('Finished')
+#
+#     print()
+#     print()
+#
+#
+# start = 2
+# end = 20
+# step = 3
+#
+# for x in range(start,end,step):
+#     print(x)
+# else:
+#     print('Finished')
 
 
 
