@@ -106,7 +106,42 @@ for x in fruits:
         break
 
 # pause
-
+# x stands for each, printing x will print all items
 favouriteFoods = ['pizza', 'chinese', 'lasagna', 'madras', 'steak']
 for x in favouriteFoods:
     print(x)
+    if x.startswith( 'm' ):
+        break
+print()
+print()
+
+for x in 'banana':
+    print(x)
+
+some_list = ['John', 'Jack', 'Jim', 'Joe']
+# replaces i with the item in the range you select
+# i.e 0 would start with john 2 would start with jim
+for i in range(2,len(some_list)):
+    print(some_list[i])
+
+print()
+print()
+# range starts at position 0 so john and breaks at 2 so jim
+for i in range(0,len(some_list)):
+    if i == 2:
+        break
+    print(some_list[i])
+print()
+print()
+# range (start number, top number, increment)
+for x in range(0, 20, 5):
+    print(x)
+else:
+    print('Finished')
+
+    print()
+    print()
+
+
+
+
