@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cloudacademy.iml" filepath="$PROJECT_DIR$/.idea/cloudacademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/homework_git.iml" filepath="$PROJECT_DIR$/.idea/homework_git.iml" />
     </modules>
   </component>
 </project>

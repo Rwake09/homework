@@ -1,0 +1,6 @@
+France
+Germany
+Belgium
+England
+Croatia
+['France', 'Germany', 'Belgium', 'England', 'Croatia']

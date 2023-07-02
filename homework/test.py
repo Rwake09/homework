@@ -20,3 +20,11 @@ while Count < max_attempts:
 
 if Count == max_attempts:
     print("Wrong pin entered 3 times, account locked")
+
+
+def multiply(a, b):
+    return a * b
+
+a = 2
+b = 1
+print(multiply(a, b))
