@@ -46,7 +46,9 @@ print("Bonus Number:", bonus_num)
 
 print()
 print()
-# using a oneline style
+
+
+# same result just a smaller way of doing it with no defined function
 
 import random
 

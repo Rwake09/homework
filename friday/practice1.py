@@ -5,3 +5,14 @@
 
 print('Hello World!!!!!')
 print('Hello Rob!!!')
+
+def solutions(s):
+    countB = s.count('B')
+    countA = s.count('A')
+    countN = s.count('N')
+    return min(countB, countA // 3, countN // 2)
+
+s = 'BANBANBANBANBANBABNABANBNABNABNABNABNABNABN'
+result = solutions(s)
+print(result)
+
